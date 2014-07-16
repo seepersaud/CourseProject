@@ -1,4 +1,4 @@
 CourseProject
 =============
 
-A reporitory for the purposes of the Course Project
+A repository for the purposes of the Course Project
